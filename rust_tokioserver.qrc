@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="rust_tokioserver">
+    </qresource>
+</RCC>
